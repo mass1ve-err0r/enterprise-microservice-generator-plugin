@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template.startup
+package com.github.mass1veerr0r.enterprisemicroservicegeneratorplugin.startup
 
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
